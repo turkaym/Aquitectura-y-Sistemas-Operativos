@@ -1,25 +1,52 @@
-# Arquitectura y Sistemas Operativos - UTN
+🔐 Seguridad en Sistemas Operativos – Ubuntu 
+👥 Integrantes
+Farid Salomón – Comisión 5
+Gabriel Gonzalez - Comisión 7
 
-Este repositorio fue creado con el propósito de subir y organizar actividades, trabajos prácticos y entregas correspondientes a la materia **Arquitectura y Sistemas Operativos** de la **Tecnicatura Universitaria en Programación** (UTN).
+📚 Materia
+Sistemas Operativos
 
-## Autor
+👨‍🏫 Docente
+Profesor/a: Maritin Aristiaran
 
-**Farid Salomón**  
-Estudiante de la Tecnicatura Universitaria en Programación - UTN
+📹 Link del video del laboratorio
+- https://www.youtube.com/watch?v=b1tnuIuGA4E
 
+📁 Enlace a Google Drive
+Contiene: informe PDF, capturas de pantalla, script de voz y documentación del caso práctico.
+- https://drive.google.com/drive/folders/1KX6zWLDZ3T-oxY2gqiNItA7TVy8_fDRd?usp=sharing
 
-## 📚 Contenido
+💻 Comisión
+Este proyecto se presenta para la Comisión 5 y 7 de la materia Sistemas Operativos.
 
-- Actividades semanales
-- Trabajos prácticos
-- Informes en PDF
-- Capturas de pantalla
-- Apuntes útiles
+🧾 Presentación del Proyecto
+En este trabajo práctico abordamos aspectos fundamentales de la seguridad y administración de usuarios en sistemas operativos GNU/Linux, utilizando Ubuntu LTS en una máquina virtual.
 
-## 🎓 Universidad Tecnológica Nacional
+Durante el laboratorio se realizaron tareas como la creación de usuarios, la gestión de grupos, el uso de sudo, la configuración del acceso SSH seguro, la autenticación con clave pública y la activación opcional de autenticación en dos pasos.
 
-Materia cursada como parte del plan de estudios oficial de la UTN.
+🎯 Objetivos del Proyecto
+Gestionar cuentas de usuario: creación, asignación de contraseñas y permisos.
 
----
+Configurar acceso por SSH de forma segura.
 
-> Este repositorio es de uso académico y personal.
+Establecer autenticación por clave pública.
+
+Configurar autenticación en dos pasos (2FA) con Google Authenticator.
+
+Probar la seguridad del sistema mediante distintos accesos controlados.
+
+Documentar y presentar el proceso paso a paso en formato audiovisual.
+
+⚙️ Herramientas Utilizadas
+Ubuntu LTS (máquina virtual en VirtualBox)
+
+Terminal bash
+
+SSH (OpenSSH)
+
+Google Authenticator (opcional)
+
+Documentación en LibreOffice Writer / Word
+
+Edición de video con Clipchamp
+
